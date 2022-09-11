@@ -11,8 +11,7 @@
 //Addones
 //
 
-
-
+void app();
 
 std::vector<float> Gaus(std::vector<std::vector<float>>& matrix,std::vector<float>& vec,bool flt=bool());
 bool maxElementKolomn(std::vector<std::vector<float>>& matrix );
