@@ -1,0 +1,14 @@
+
+.idea/-numerics.iml
+
+.idea/.name
+
+*.xml
+
+cmake-build-debug/.cmake/api/v1/query/
+
+cmake-build-debug/.cmake/api/v1/reply/
+
+cmake-build-debug/
+
+CMakeLists.txt
